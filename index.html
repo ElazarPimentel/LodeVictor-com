@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Lo De Victor - Riquísima Parrilla Kosher en Buenos Aires. Certificación Rabino Chehebar.">
+    <title>Lo De Victor - Parrilla Kosher</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Raleway:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Language Selector -->
+    <div class="language-selector">
+        <button class="lang-btn active" data-lang="es">ES</button>
+        <button class="lang-btn" data-lang="en">EN</button>
+        <button class="lang-btn" data-lang="he">עב</button>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-content">
+                <div class="logo">Lo de Victor</div>
+                <ul class="nav-links">
+                    <li><a href="#inicio" data-translate="nav_home">Inicio</a></li>
+                    <li><a href="#about" data-translate="nav_about">Nosotros</a></li>
+                    <li><a href="#menu" data-translate="nav_menu">Menú</a></li>
+                    <li><a href="#gallery" data-translate="nav_gallery">Galería</a></li>
+                    <li><a href="#contact" data-translate="nav_contact">Contacto</a></li>
+                </ul>
+                <button class="mobile-menu-btn">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="inicio" class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1 class="hero-logo">Lo de Victor</h1>
+            <h2 class="hero-subtitle" data-translate="hero_subtitle">Riquísima Parrilla (K)</h2>
+            <p class="hero-description" data-translate="hero_description">Auténtica parrilla kosher en el corazón de Buenos Aires</p>
+            <a href="#contact" class="cta-button" data-translate="hero_cta">Visitanos</a>
+        </div>
+        <div class="scroll-indicator">
+            <span></span>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="section-header">
+                <h2 data-translate="about_title">Sobre Nosotros</h2>
+                <div class="divider"></div>
+            </div>
+            <div class="about-content">
+                <div class="about-text">
+                    <p data-translate="about_text">
+                        Lo De Victor es una parrilla kosher que ofrece la mejor experiencia gastronómica argentina con certificación del Rabino Chehebar. Nuestros platos combinan tradición, sabor y la más alta calidad en cada bocado.
+                    </p>
+                    <div class="kosher-certification">
+                        <h3 data-translate="kosher_title">Certificación Kosher</h3>
+                        <p data-translate="kosher_text">Rabino Chehebar</p>
+                    </div>
+                </div>
+                <div class="about-features">
+                    <div class="feature">
+                        <div class="feature-icon">🍖</div>
+                        <h4 data-translate="feature1_title">Carnes Premium</h4>
+                        <p data-translate="feature1_text">Las mejores cortes de la parrilla argentina</p>
+                    </div>
+                    <div class="feature">
+                        <div class="feature-icon">✡️</div>
+                        <h4 data-translate="feature2_title">100% Kosher</h4>
+                        <p data-translate="feature2_text">Certificación Rabino Chehebar</p>
+                    </div>
+                    <div class="feature">
+                        <div class="feature-icon">🏠</div>
+                        <h4 data-translate="feature3_title">Ambiente Familiar</h4>
+                        <p data-translate="feature3_text">Cocina casera con amor</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Menu Section -->
+    <section id="menu" class="menu">
+        <div class="container">
+            <div class="section-header">
+                <h2 data-translate="menu_title">Nuestro Menú</h2>
+                <div class="divider"></div>
+            </div>
+            <div class="menu-content">
+                <div class="menu-category">
+                    <h3 data-translate="menu_parrilla">Parrilla</h3>
+                    <div class="menu-items">
+                        <div class="menu-item">
+                            <h4 data-translate="menu_item1">Bife de Chorizo</h4>
+                            <p data-translate="menu_item1_desc">Jugoso corte argentino a la parrilla</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4 data-translate="menu_item2">Asado de Tira</h4>
+                            <p data-translate="menu_item2_desc">Costillas de res al estilo tradicional</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4 data-translate="menu_item3">Vacío</h4>
+                            <p data-translate="menu_item3_desc">Corte clásico argentino</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4 data-translate="menu_item4">Entraña</h4>
+                            <p data-translate="menu_item4_desc">Tierno y sabroso</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="menu-category">
+                    <h3 data-translate="menu_pollo">Pollo</h3>
+                    <div class="menu-items">
+                        <div class="menu-item">
+                            <h4 data-translate="menu_item5">Pollo a la Parrilla</h4>
+                            <p data-translate="menu_item5_desc">Marinado con hierbas especiales</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4 data-translate="menu_item6">Milanesas</h4>
+                            <p data-translate="menu_item6_desc">Crujientes y doradas</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="menu-category">
+                    <h3 data-translate="menu_guarniciones">Guarniciones</h3>
+                    <div class="menu-items">
+                        <div class="menu-item">
+                            <h4 data-translate="menu_item7">Papas Fritas</h4>
+                            <p data-translate="menu_item7_desc">Caseras y crujientes</p>
+                        </div>
+                        <div class="menu-item">
+                            <h4 data-translate="menu_item8">Ensaladas</h4>
+                            <p data-translate="menu_item8_desc">Frescas del día</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="menu-note">
+                <p data-translate="menu_note">Todos nuestros platos son preparados bajo estricta supervisión Kosher</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="gallery">
+        <div class="container">
+            <div class="section-header">
+                <h2 data-translate="gallery_title">Galería</h2>
+                <div class="divider"></div>
+            </div>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="images/placeholder1.jpg" alt="Plato 1">
+                    <div class="gallery-overlay">
+                        <span data-translate="gallery_item1">Bife de Chorizo</span>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="images/placeholder2.jpg" alt="Plato 2">
+                    <div class="gallery-overlay">
+                        <span data-translate="gallery_item2">Asado de Tira</span>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="images/placeholder3.jpg" alt="Plato 3">
+                    <div class="gallery-overlay">
+                        <span data-translate="gallery_item3">Entraña</span>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="images/placeholder4.jpg" alt="Plato 4">
+                    <div class="gallery-overlay">
+                        <span data-translate="gallery_item4">Parrilla Mixta</span>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="images/placeholder5.jpg" alt="Plato 5">
+                    <div class="gallery-overlay">
+                        <span data-translate="gallery_item5">Vacío</span>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="images/placeholder6.jpg" alt="Plato 6">
+                    <div class="gallery-overlay">
+                        <span data-translate="gallery_item6">Nuestro Restaurante</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Hours Section -->
+    <section class="hours">
+        <div class="container">
+            <div class="section-header">
+                <h2 data-translate="hours_title">Horarios</h2>
+                <div class="divider"></div>
+            </div>
+            <div class="hours-content">
+                <div class="hours-table">
+                    <div class="hours-row">
+                        <span class="day" data-translate="day_monday">Lunes</span>
+                        <span class="time">12:00 - 16:00</span>
+                    </div>
+                    <div class="hours-row">
+                        <span class="day" data-translate="day_tuesday">Martes</span>
+                        <span class="time">12:00 - 16:00</span>
+                    </div>
+                    <div class="hours-row">
+                        <span class="day" data-translate="day_wednesday">Miércoles</span>
+                        <span class="time">12:00 - 16:00</span>
+                    </div>
+                    <div class="hours-row">
+                        <span class="day" data-translate="day_thursday">Jueves</span>
+                        <span class="time">12:00 - 16:00 | 19:15 - 22:30</span>
+                    </div>
+                    <div class="hours-row">
+                        <span class="day" data-translate="day_friday">Viernes</span>
+                        <span class="time">12:00 - 16:00</span>
+                    </div>
+                    <div class="hours-row closed">
+                        <span class="day" data-translate="day_saturday">Sábado</span>
+                        <span class="time" data-translate="closed">Cerrado</span>
+                    </div>
+                    <div class="hours-row">
+                        <span class="day" data-translate="day_sunday">Domingo</span>
+                        <span class="time">12:00 - 16:00 | 19:15 - 22:30</span>
+                    </div>
+                </div>
+                <div class="pickup-info">
+                    <h3 data-translate="pickup_title">Servicio de Pickup</h3>
+                    <p data-translate="pickup_text">¡Llevá nuestros deliciosos platos a tu casa!</p>
+                    <a href="https://wa.me/5491152269070" class="pickup-button" target="_blank" data-translate="pickup_button">Pedí por WhatsApp</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-header">
+                <h2 data-translate="contact_title">Contacto</h2>
+                <div class="divider"></div>
+            </div>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <div class="contact-icon">📍</div>
+                        <div class="contact-details">
+                            <h4 data-translate="contact_address">Dirección</h4>
+                            <p>Paso 610, CABA</p>
+                            <a href="https://maps.app.goo.gl/Nc8jvgm55sjcWG4X9" target="_blank" class="map-link" data-translate="contact_map">Ver en Google Maps</a>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">📱</div>
+                        <div class="contact-details">
+                            <h4 data-translate="contact_phone">Teléfonos</h4>
+                            <p><a href="tel:+5491152269070">WhatsApp: +54 911 5226-9070</a></p>
+                            <p><a href="tel:+541149616073">Tel: (+54 911) 4961-6073</a></p>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">🌐</div>
+                        <div class="contact-details">
+                            <h4 data-translate="contact_social">Redes Sociales</h4>
+                            <div class="social-links">
+                                <a href="https://www.instagram.com/lodevictorkosher" target="_blank" class="social-link instagram">Instagram</a>
+                                <a href="https://www.facebook.com/p/Parrilla-Kosher-Lo-de-Victor-100069764214992/" target="_blank" class="social-link facebook">Facebook</a>
+                                <a href="https://www.tripadvisor.com.ar/Restaurant_Review-g312741-d17727838-Reviews-Lo_De_Victor-Buenos_Aires_Capital_Federal_District.html?m=69573" target="_blank" class="social-link tripadvisor">Tripadvisor</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.8982358773943!2d-58.40655668477026!3d-34.60473538045969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccaec8fa0c759%3A0x9e0c8b3e45f1e9f6!2sPaso%20610%2C%20C1031%20CABA!5e0!3m2!1sen!2sar!4v1234567890" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">Lo de Victor</div>
+                <p data-translate="footer_text">Riquísima Parrilla Kosher - Certificación Rabino Chehebar</p>
+                <div class="footer-links">
+                    <a href="https://www.instagram.com/lodevictorkosher" target="_blank">Instagram</a>
+                    <a href="https://www.facebook.com/p/Parrilla-Kosher-Lo-de-Victor-100069764214992/" target="_blank">Facebook</a>
+                    <a href="https://www.lodevictor.com" target="_blank">Website</a>
+                </div>
+                <p class="footer-copyright">&copy; 2024 Lo De Victor. <span data-translate="footer_rights">Todos los derechos reservados.</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
