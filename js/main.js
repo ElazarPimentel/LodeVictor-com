@@ -72,6 +72,9 @@ const translations = {
         pickup_title: 'Servicio de Pickup',
         pickup_text: '¡Llevá nuestros deliciosos platos a tu casa!',
         pickup_button: 'Pedí por WhatsApp',
+        reservas_title: 'Reservas',
+        reservas_text: '¡Reservá tu mesa con anticipación!',
+        reservas_button: 'Reservar por WhatsApp',
 
         // Contact
         contact_title: 'Contacto',
@@ -154,6 +157,9 @@ const translations = {
         pickup_title: 'Pickup Service',
         pickup_text: 'Take our delicious dishes home!',
         pickup_button: 'Order via WhatsApp',
+        reservas_title: 'Reservations',
+        reservas_text: 'Reserve your table in advance!',
+        reservas_button: 'Reserve via WhatsApp',
 
         // Contact
         contact_title: 'Contact',
@@ -236,6 +242,9 @@ const translations = {
         pickup_title: 'שירות איסוף',
         pickup_text: 'קח את המנות הטעימות שלנו הביתה!',
         pickup_button: 'הזמן דרך וואטסאפ',
+        reservas_title: 'הזמנות מקום',
+        reservas_text: 'הזמן את השולחן שלך מראש!',
+        reservas_button: 'הזמן מקום דרך וואטסאפ',
 
         // Contact
         contact_title: 'צור קשר',
