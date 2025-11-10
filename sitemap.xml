@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Spanish (default) -->
+  <url>
+    <loc>https://lodevictor.com/</loc>
+    <lastmod>2024-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lodevictor.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lodevictor.com/en/" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://lodevictor.com/he/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lodevictor.com/" />
+  </url>
+
+  <!-- English -->
+  <url>
+    <loc>https://lodevictor.com/en/</loc>
+    <lastmod>2024-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lodevictor.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lodevictor.com/en/" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://lodevictor.com/he/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lodevictor.com/" />
+  </url>
+
+  <!-- Hebrew -->
+  <url>
+    <loc>https://lodevictor.com/he/</loc>
+    <lastmod>2024-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lodevictor.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lodevictor.com/en/" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://lodevictor.com/he/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lodevictor.com/" />
+  </url>
+</urlset>

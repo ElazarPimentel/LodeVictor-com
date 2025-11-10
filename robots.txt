@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: https://lodevictor.com/sitemap.xml
+
+# Disallow admin or private directories (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow search engines to crawl all content
+Crawl-delay: 0
