@@ -564,7 +564,7 @@ section {
     border-radius: 8px;
     overflow: hidden;
     border: 1px solid var(--border-gray);
-    grid-row: span 2;
+    grid-row: span 3;
 }
 
 .hours-row {

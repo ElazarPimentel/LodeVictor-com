@@ -28,35 +28,19 @@ lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" << FTPEOF
 set ssl:verify-certificate no
 cd $REMOTE_PATH
 
-# Upload HTML files
-echo "Uploading HTML files..."
-mput *.html
-
-# Upload favicon, sitemap and robots.txt
-echo "Uploading favicon, sitemap and robots.txt..."
-put favicon.svg
-put sitemap.xml
-put robots.txt
-
-# Upload CSS folder
-echo "Uploading CSS folder..."
-mirror -R --delete --verbose css css
-
-# Upload JS folder
-echo "Uploading JS folder..."
-mirror -R --delete --verbose js js
-
-# Upload images folder
-echo "Uploading images folder..."
-mirror -R --delete --verbose images images
-
-# Upload EN folder
-echo "Uploading EN folder..."
-mirror -R --delete --verbose en en
-
-# Upload HE folder
-echo "Uploading HE folder..."
-mirror -R --delete --verbose he he
+# Mirror entire directory with exclusions
+echo "Uploading all files (excluding .git, .env, etc)..."
+mirror -R --delete --verbose \
+  --exclude .git/ \
+  --exclude .gitignore \
+  --exclude .env \
+  --exclude .env.local \
+  --exclude .grok/ \
+  --exclude node_modules/ \
+  --exclude .DS_Store \
+  --exclude deploytohostinger.sh \
+  --exclude README.md \
+  $LOCAL_DIR .
 
 echo "Deployment completed!"
 bye
