@@ -17,7 +17,7 @@ const translations = {
 
         // About
         about_title: 'Sobre Nosotros',
-        about_text: 'Lo De Victor es una parrilla kosher que ofrece la mejor experiencia gastronómica argentina con certificación del Rabino Chehebar. Nuestros platos combinan tradición, sabor y la más alta calidad en cada bocado.',
+        about_text: 'Lo De Victor es una parrilla kosher que ofrece la mejor experiencia gastronómica argentina. Nuestros platos combinan tradición, sabor y la más alta calidad en cada bocado.',
         kosher_title: 'Certificación Kosher',
         kosher_text: 'Rabino Chehebar',
         feature1_title: 'Carnes Premium',
