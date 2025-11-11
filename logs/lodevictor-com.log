@@ -1,0 +1,183 @@
+=== Dev Server Log Started: Mon Nov 10 11:15:02 PM -03 2025 ===
+[VERBOSE] Project directory: /home/rob/Documents/work/pensanta/websites/lodevictor-com
+[VERBOSE] Reading PORT from .env.local...
+[VERBOSE] Found PORT=4208 in .env.local
+[VERBOSE] Exported PORT from .env.local: 4208
+[VERBOSE] Detected plain HTML project (no package.json)
+[VERBOSE] Running command: pnpm dlx serve -p 4208
+[VERBOSE] Using pnpm from: /home/rob/.local/share/pnpm/pnpm
+[VERBOSE] Server PID: 445846
+[VERBOSE] Detected server port: 4208
+[VERBOSE] Detected host IP: 192.168.0.5
+ WARN  Checking for updates failed (use `--debug` to see full error)
+ INFO  Accepting connections at http://localhost:4208
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 61 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /js/main.js
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /css/styles.css
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/135.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/100.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/certificate.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/140.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/150.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/160.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 16 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/110.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 25 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 33 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/120.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 31 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 29 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 35 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/130.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/165.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /images/170.png
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 44 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 23 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 28 ms
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 GET /favicon.svg
+ HTTP  11/10/2025 11:15:12 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /css/styles.css
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /js/main.js
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/certificate.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/100.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/110.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/120.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/130.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/135.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/140.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/150.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/160.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 3 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/165.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 GET /images/170.png
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  11/10/2025 11:16:04 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /css/styles.css
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /js/main.js
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/certificate.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/100.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/110.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/120.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/130.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/135.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/140.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/150.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/160.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/165.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 GET /images/170.png
+ HTTP  11/10/2025 11:16:42 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /css/styles.css
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /js/main.js
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/certificate.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/100.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/110.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/120.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/130.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/135.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/140.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/150.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/160.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/165.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 GET /images/170.png
+ HTTP  11/10/2025 11:17:05 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /css/styles.css
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /js/main.js
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 200 in 35 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/certificate.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/100.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/110.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/120.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/130.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/135.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/140.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/150.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/160.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/165.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 GET /images/170.png
+ HTTP  11/10/2025 11:17:35 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /css/styles.css
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /js/main.js
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/certificate.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/100.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/110.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/120.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/130.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/135.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/140.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/160.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 3 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/150.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 5 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/165.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 GET /images/170.png
+ HTTP  11/10/2025 11:19:52 PM 127.0.0.1 Returned 304 in 1 ms
