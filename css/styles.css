@@ -811,6 +811,48 @@ section {
     border-top: 1px solid var(--border-gray);
 }
 
+.pensanta-credit {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    margin-top: 20px;
+    background: linear-gradient(135deg, #1a1a1a 0%, #0f0f0f 100%);
+    border: 1px solid var(--border-gray);
+    border-radius: 2rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text-gray);
+    transition: all 0.3s ease;
+}
+
+.pensanta-credit:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(249, 7, 3, 0.2),
+        inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    border-color: var(--primary-red);
+}
+
+.pensanta-credit svg {
+    flex-shrink: 0;
+    opacity: 0.8;
+    color: var(--primary-red);
+}
+
+.pensanta-credit a {
+    color: var(--text-white);
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.pensanta-credit a:hover {
+    color: var(--primary-red);
+    text-shadow: 0 0 8px rgba(249, 7, 3, 0.5);
+}
+
 /* ===========================
    Floating WhatsApp Button
    =========================== */
