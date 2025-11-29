@@ -5,12 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <meta name="description" content="Lo De Victor - Delicious Kosher Grill in Buenos Aires. Sirloin steak, short ribs, flank steak, skirt steak and grilled chicken. Authentic Argentine kosher cuisine. Paso 610, CABA.">
-    <meta name="keywords" content="kosher grill, kosher restaurant buenos aires, kosher argentine grill, sirloin steak, short ribs, flank steak, skirt steak, lo de victor, kosher caba, kosher barbecue, kosher restaurant paso">
+    <meta name="description" content="Best Kosher Steakhouse in Buenos Aires - Lo De Victor ⭐ Authentic Argentine grilled meats, delivery & pickup available. Sirloin, short ribs, asado. Paso 610, CABA. Order now via WhatsApp!">
     <meta name="author" content="Lo De Victor">
+    <meta name="theme-color" content="#f90703">
     <meta name="robots" content="index, follow">
     <meta name="language" content="English">
-    <meta name="revisit-after" content="7 days">
 
     <!-- Canonical URL -->
     <link rel="canonical" href="https://lodevictor.com/en/">
@@ -24,9 +23,10 @@
     <!-- Open Graph Meta Tags -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://lodevictor.com/en/">
-    <meta property="og:title" content="Lo De Victor - Kosher Grill Buenos Aires">
-    <meta property="og:description" content="Delicious Kosher Grill in Buenos Aires. Sirloin steak, short ribs, flank steak, skirt steak. Authentic Argentine kosher cuisine. Paso 610, CABA.">
+    <meta property="og:title" content="Best Kosher Steakhouse in Buenos Aires - Lo De Victor">
+    <meta property="og:description" content="Authentic Argentine grilled meats - sirloin, short ribs, asado. Kosher certified. Delivery & pickup available. Order now via WhatsApp!">
     <meta property="og:image" content="https://lodevictor.com/images/social-share.png">
+    <meta property="og:image:alt" content="Lo De Victor - Best Kosher Steakhouse Buenos Aires - Authentic Argentine Cuisine">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
@@ -37,11 +37,12 @@
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://lodevictor.com/en/">
-    <meta name="twitter:title" content="Lo De Victor - Kosher Grill Buenos Aires">
-    <meta name="twitter:description" content="Delicious Kosher Grill in Buenos Aires. Sirloin steak, short ribs, flank steak, skirt steak. Authentic Argentine kosher cuisine.">
+    <meta name="twitter:title" content="Best Kosher Steakhouse in Buenos Aires - Lo De Victor">
+    <meta name="twitter:description" content="Authentic Argentine grilled meats. Kosher certified. Delivery & pickup available. Order now via WhatsApp!">
     <meta name="twitter:image" content="https://lodevictor.com/images/social-share.png">
+    <meta name="twitter:image:alt" content="Lo De Victor - Best Kosher Steakhouse Buenos Aires - Authentic Argentine Cuisine">
 
-    <title>Lo De Victor - Kosher Grill Buenos Aires | Paso 610</title>
+    <title>Best Kosher Steakhouse Buenos Aires - Lo De Victor | Paso 610</title>
     <link rel="icon" type="image/svg+xml" href="../favicon.svg">
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -75,9 +76,8 @@
         "https://lodevictor.com/images/120.png"
       ],
       "logo": "https://lodevictor.com/favicon.svg",
-      "servesCuisine": ["Argentine", "Kosher", "Grill"],
       "priceRange": "$$",
-      "acceptsReservations": "True",
+      "acceptsReservations": true,
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Paso 610",
@@ -91,6 +91,31 @@
         "longitude": "-58.406557"
       },
       "telephone": "+54-911-5226-9070",
+      "email": "contacto@lodevictor.com",
+      "hasMap": "https://www.google.com/maps/place/Paso+610,+C1031+CABA",
+      "areaServed": {
+        "@type": "City",
+        "name": "Buenos Aires"
+      },
+      "servesCuisine": ["Kosher", "Argentine", "Steakhouse", "Grill"],
+      "paymentAccepted": ["Cash", "Credit Card", "Debit Card"],
+      "currenciesAccepted": "ARS",
+      "keywords": "kosher restaurant, kosher steakhouse, kosher delivery, kosher near me, best kosher restaurant buenos aires",
+      "potentialAction": [
+        {
+          "@type": "OrderAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://wa.me/5491152269070",
+            "inLanguage": "en",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/MobileWebPlatform"
+            ]
+          },
+          "deliveryMethod": ["http://purl.org/goodrelations/v1#DeliveryModePickUp", "http://purl.org/goodrelations/v1#DeliveryModeDirectDownload"]
+        }
+      ],
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -116,7 +141,7 @@
         "https://www.facebook.com/p/Parrilla-Kosher-Lo-de-Victor-100069764214992/",
         "https://www.tripadvisor.com.ar/Restaurant_Review-g312741-d17727838-Reviews-Lo_De_Victor-Buenos_Aires_Capital_Federal_District.html"
       ],
-      "menu": "https://lodevictor.com/#menu",
+      "menu": "https://lodevictor.com/en/#menu",
       "hasMenu": {
         "@type": "Menu",
         "name": "Main Menu",
@@ -155,6 +180,64 @@
           }
         ]
       }
+    }
+    </script>
+
+    <!-- FAQ Schema for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where is Lo De Victor kosher restaurant located?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lo De Victor is located at Paso 610, CABA, Buenos Aires. We are a kosher grill certified by Rabbi Chehebar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer kosher delivery in Buenos Aires?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer delivery service only in Once, CABA. For other locations, place your order and send your favorite transport service to pick up the food - we'll gladly hand it over so they can deliver it to you. Order via WhatsApp at +54 911 5226-9070."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you have pickup service?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer pickup service. Order via WhatsApp and pick up your order at Paso 610, CABA."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What type of kosher meat do you have?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We have a wide variety of kosher meats: sirloin steak, short ribs, flank steak, skirt steak, and grilled chicken. All our meats are kosher certified by Rabbi Chehebar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best kosher steakhouse in Buenos Aires?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lo De Victor is recognized as one of the best kosher steakhouses in Buenos Aires, specializing in authentic Argentine cuisine with Rabbi Chehebar certification."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you accept reservations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we accept reservations. You can reserve your table via WhatsApp at +54 911 5226-9070."
+          }
+        }
+      ]
     }
     </script>
 </head>
@@ -417,6 +500,54 @@
                         <span>Our Meats</span>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="faq">
+        <div class="container">
+            <div class="section-header">
+                <h2>Frequently Asked Questions</h2>
+                <div class="divider"></div>
+            </div>
+            <div class="faq-grid">
+                <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                    <summary itemprop="name">Where is Lo De Victor kosher restaurant located?</summary>
+                    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                        <p itemprop="text">Lo De Victor is located at Paso 610, CABA, Buenos Aires. We are a kosher grill certified by Rabbi Chehebar.</p>
+                    </div>
+                </details>
+                <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                    <summary itemprop="name">Do you offer kosher delivery in Buenos Aires?</summary>
+                    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                        <p itemprop="text">Yes, we offer delivery service only in Once, CABA. For other locations, place your order and send your favorite transport service to pick up the food - we'll gladly hand it over so they can deliver it to you. Order via WhatsApp at +54 911 5226-9070.</p>
+                    </div>
+                </details>
+                <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                    <summary itemprop="name">Do you have pickup service?</summary>
+                    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                        <p itemprop="text">Yes, we offer pickup service. Order via WhatsApp and pick up your order at Paso 610, CABA.</p>
+                    </div>
+                </details>
+                <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                    <summary itemprop="name">What type of kosher meat do you have?</summary>
+                    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                        <p itemprop="text">We have a wide variety of kosher meats: sirloin steak, short ribs, flank steak, skirt steak, and grilled chicken. All our meats are kosher certified by Rabbi Chehebar.</p>
+                    </div>
+                </details>
+                <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                    <summary itemprop="name">What is the best kosher steakhouse in Buenos Aires?</summary>
+                    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                        <p itemprop="text">Lo De Victor is recognized as one of the best kosher steakhouses in Buenos Aires, specializing in authentic Argentine cuisine with Rabbi Chehebar certification.</p>
+                    </div>
+                </details>
+                <details class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                    <summary itemprop="name">Do you accept reservations?</summary>
+                    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                        <p itemprop="text">Yes, we accept reservations. You can reserve your table via WhatsApp at +54 911 5226-9070.</p>
+                    </div>
+                </details>
             </div>
         </div>
     </section>
