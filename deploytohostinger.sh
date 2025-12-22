@@ -2,6 +2,7 @@
 # Deployment script for pensanta.com to Hostinger
 
 # Load credentials from .env.local
+gitpush.sh
 if [ -f .env.local ]; then
     source .env.local
 else
