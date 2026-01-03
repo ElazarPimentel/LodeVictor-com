@@ -1,9 +1,9 @@
 {
   "site_url": "sc-domain:lodevictor.com",
-  "generated_at": "2025-12-27T14:51:43.239841",
+  "generated_at": "2026-01-02T21:25:47.324348",
   "period": {
-    "start": "2025-11-29",
-    "end": "2025-12-27",
+    "start": "2025-12-05",
+    "end": "2026-01-02",
     "days": 28
   },
   "data": {
@@ -12,73 +12,82 @@
         "keys": [
           "lo de victor kosher"
         ],
-        "clicks": 15,
-        "impressions": 120,
-        "ctr": 0.125,
+        "clicks": 18,
+        "impressions": 129,
+        "ctr": 0.1395,
         "position": 1.1
       },
       {
         "keys": [
           "lo de victor"
         ],
-        "clicks": 11,
-        "impressions": 124,
-        "ctr": 0.0887,
-        "position": 3.1
+        "clicks": 12,
+        "impressions": 152,
+        "ctr": 0.0789,
+        "position": 3.3
       },
       {
         "keys": [
           "parrilla kosher lo de victor"
         ],
-        "clicks": 8,
-        "impressions": 29,
-        "ctr": 0.2759,
+        "clicks": 7,
+        "impressions": 28,
+        "ctr": 0.25,
         "position": 1.2
       },
       {
         "keys": [
           "parrilla kosher"
         ],
-        "clicks": 7,
-        "impressions": 38,
-        "ctr": 0.1842,
+        "clicks": 6,
+        "impressions": 37,
+        "ctr": 0.1622,
         "position": 1.6
+      },
+      {
+        "keys": [
+          "restaurantes kosher en buenos aires"
+        ],
+        "clicks": 3,
+        "impressions": 25,
+        "ctr": 0.12,
+        "position": 9.9
       },
       {
         "keys": [
           "kosher near me"
         ],
         "clicks": 2,
-        "impressions": 19,
-        "ctr": 0.1053,
-        "position": 7.9
+        "impressions": 22,
+        "ctr": 0.0909,
+        "position": 8.0
       },
       {
         "keys": [
           "kosher restaurants buenos aires"
         ],
         "clicks": 2,
-        "impressions": 16,
-        "ctr": 0.125,
-        "position": 9.6
+        "impressions": 21,
+        "ctr": 0.0952,
+        "position": 9.7
       },
       {
         "keys": [
-          "victor"
+          "kosher steakhouse buenos aires"
         ],
         "clicks": 2,
-        "impressions": 4,
-        "ctr": 0.5,
-        "position": 1.5
+        "impressions": 29,
+        "ctr": 0.069,
+        "position": 6.1
       },
       {
         "keys": [
           "comida kosher"
         ],
         "clicks": 1,
-        "impressions": 7,
-        "ctr": 0.1429,
-        "position": 9.3
+        "impressions": 11,
+        "ctr": 0.0909,
+        "position": 8.3
       },
       {
         "keys": [
@@ -91,48 +100,30 @@
       },
       {
         "keys": [
-          "kosher meat restaurants near me"
+          "kosher buenos aires"
         ],
         "clicks": 1,
-        "impressions": 3,
-        "ctr": 0.3333,
-        "position": 2.7
+        "impressions": 51,
+        "ctr": 0.0196,
+        "position": 9.9
       },
       {
         "keys": [
-          "kosher steakhouse buenos aires"
+          "restaurante kosher belgrano"
         ],
         "clicks": 1,
-        "impressions": 20,
-        "ctr": 0.05,
-        "position": 6.5
-      },
-      {
-        "keys": [
-          "restaurante kosher caba"
-        ],
-        "clicks": 1,
-        "impressions": 7,
-        "ctr": 0.1429,
-        "position": 11.9
+        "impressions": 31,
+        "ctr": 0.0323,
+        "position": 7.5
       },
       {
         "keys": [
           "restaurantes kosher"
         ],
         "clicks": 1,
-        "impressions": 4,
-        "ctr": 0.25,
-        "position": 10.5
-      },
-      {
-        "keys": [
-          "restaurantes kosher en buenos aires"
-        ],
-        "clicks": 1,
-        "impressions": 12,
-        "ctr": 0.0833,
-        "position": 10.2
+        "impressions": 5,
+        "ctr": 0.2,
+        "position": 17.2
       },
       {
         "keys": [
@@ -145,12 +136,30 @@
       },
       {
         "keys": [
+          "victor parrilla"
+        ],
+        "clicks": 1,
+        "impressions": 10,
+        "ctr": 0.1,
+        "position": 7.1
+      },
+      {
+        "keys": [
+          "מסעדות כשרות בבואנוס איירס"
+        ],
+        "clicks": 1,
+        "impressions": 33,
+        "ctr": 0.0303,
+        "position": 6.9
+      },
+      {
+        "keys": [
           "מסעדות כשרות בואנוס איירס"
         ],
         "clicks": 1,
-        "impressions": 26,
-        "ctr": 0.0385,
-        "position": 7.4
+        "impressions": 29,
+        "ctr": 0.0345,
+        "position": 7.6
       },
       {
         "keys": [
@@ -160,6 +169,15 @@
         "impressions": 2,
         "ctr": 0,
         "position": 6
+      },
+      {
+        "keys": [
+          "argentina kosher restaurants"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 9
       },
       {
         "keys": [
@@ -175,7 +193,7 @@
           "asado kosher"
         ],
         "clicks": 0,
-        "impressions": 4,
+        "impressions": 6,
         "ctr": 0,
         "position": 6.5
       },
@@ -195,7 +213,7 @@
         "clicks": 0,
         "impressions": 4,
         "ctr": 0,
-        "position": 10
+        "position": 7.8
       },
       {
         "keys": [
@@ -213,7 +231,7 @@
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
-        "position": 15
+        "position": 2
       },
       {
         "keys": [
@@ -229,63 +247,54 @@
           "buenos aires kosher"
         ],
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 12,
         "ctr": 0,
-        "position": 8.2
+        "position": 7.6
       },
       {
         "keys": [
           "buenos aires kosher restaurants"
         ],
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 5,
         "ctr": 0,
-        "position": 10.3
-      },
-      {
-        "keys": [
-          "cafeteria kosher"
-        ],
-        "clicks": 0,
-        "impressions": 1,
-        "ctr": 0,
-        "position": 36
+        "position": 14
       },
       {
         "keys": [
           "carne kosher"
         ],
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 10
+        "position": 8.5
       },
       {
         "keys": [
-          "cheap halal restaurants near me"
+          "carniceria kosher"
         ],
         "clicks": 0,
         "impressions": 1,
         "ctr": 0,
-        "position": 3
+        "position": 29
       },
       {
         "keys": [
           "comida al paso"
         ],
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 8
+        "position": 8.5
       },
       {
         "keys": [
           "comida kosher en buenos aires"
         ],
         "clicks": 0,
-        "impressions": 1,
+        "impressions": 2,
         "ctr": 0,
-        "position": 1
+        "position": 5
       },
       {
         "keys": [
@@ -346,18 +355,18 @@
           "halal food buenos aires"
         ],
         "clicks": 0,
-        "impressions": 5,
+        "impressions": 6,
         "ctr": 0,
-        "position": 17
+        "position": 11.7
       },
       {
         "keys": [
           "halal food in buenos aires"
         ],
         "clicks": 0,
-        "impressions": 2,
+        "impressions": 1,
         "ctr": 0,
-        "position": 7.5
+        "position": 6
       },
       {
         "keys": [
@@ -379,12 +388,12 @@
       },
       {
         "keys": [
-          "halal restaurants in buenos aires"
+          "halal restaurants near me"
         ],
         "clicks": 0,
-        "impressions": 3,
+        "impressions": 2,
         "ctr": 0,
-        "position": 8
+        "position": 12.5
       },
       {
         "keys": [
@@ -427,9 +436,9 @@
           "kosher"
         ],
         "clicks": 0,
-        "impressions": 11,
+        "impressions": 9,
         "ctr": 0,
-        "position": 8
+        "position": 9.4
       },
       {
         "keys": [
@@ -438,7 +447,7 @@
         "clicks": 0,
         "impressions": 7,
         "ctr": 0,
-        "position": 10.9
+        "position": 8.7
       },
       {
         "keys": [
@@ -448,15 +457,6 @@
         "impressions": 2,
         "ctr": 0,
         "position": 7.5
-      },
-      {
-        "keys": [
-          "kosher buenos aires"
-        ],
-        "clicks": 0,
-        "impressions": 35,
-        "ctr": 0,
-        "position": 10.6
       }
     ],
     "pages_28d": [
@@ -464,37 +464,37 @@
         "keys": [
           "https://lodevictor.com/"
         ],
-        "clicks": 81,
-        "impressions": 1565,
-        "ctr": 0.0518,
-        "position": 6.4
+        "clicks": 106,
+        "impressions": 1914,
+        "ctr": 0.0554,
+        "position": 6.3
       },
       {
         "keys": [
           "https://lodevictor.com/#menu"
         ],
-        "clicks": 24,
-        "impressions": 456,
-        "ctr": 0.0526,
-        "position": 3.4
+        "clicks": 20,
+        "impressions": 548,
+        "ctr": 0.0365,
+        "position": 3.2
       },
       {
         "keys": [
           "https://lodevictor.com/en/"
         ],
-        "clicks": 5,
-        "impressions": 109,
-        "ctr": 0.0459,
-        "position": 5.2
+        "clicks": 10,
+        "impressions": 162,
+        "ctr": 0.0617,
+        "position": 5.1
       },
       {
         "keys": [
           "https://lodevictor.com/he/"
         ],
-        "clicks": 2,
-        "impressions": 127,
-        "ctr": 0.0157,
-        "position": 8.7
+        "clicks": 4,
+        "impressions": 166,
+        "ctr": 0.0241,
+        "position": 8.6
       }
     ],
     "devices_28d": [
@@ -502,85 +502,31 @@
         "keys": [
           "MOBILE"
         ],
-        "clicks": 82,
-        "impressions": 1422,
-        "ctr": 0.0577,
-        "position": 6.2
+        "clicks": 107,
+        "impressions": 1795,
+        "ctr": 0.0596,
+        "position": 6.1
       },
       {
         "keys": [
           "DESKTOP"
         ],
-        "clicks": 26,
-        "impressions": 277,
-        "ctr": 0.0939,
-        "position": 8.4
+        "clicks": 29,
+        "impressions": 321,
+        "ctr": 0.0903,
+        "position": 8.5
       },
       {
         "keys": [
           "TABLET"
         ],
         "clicks": 2,
-        "impressions": 26,
-        "ctr": 0.0769,
-        "position": 6.8
+        "impressions": 22,
+        "ctr": 0.0909,
+        "position": 6.5
       }
     ],
     "daily_28d": [
-      {
-        "keys": [
-          "2025-11-29"
-        ],
-        "clicks": 4,
-        "impressions": 24,
-        "ctr": 0.1667,
-        "position": 10.8
-      },
-      {
-        "keys": [
-          "2025-11-30"
-        ],
-        "clicks": 6,
-        "impressions": 64,
-        "ctr": 0.0938,
-        "position": 8.2
-      },
-      {
-        "keys": [
-          "2025-12-01"
-        ],
-        "clicks": 3,
-        "impressions": 32,
-        "ctr": 0.0938,
-        "position": 6.2
-      },
-      {
-        "keys": [
-          "2025-12-02"
-        ],
-        "clicks": 2,
-        "impressions": 35,
-        "ctr": 0.0571,
-        "position": 6.6
-      },
-      {
-        "keys": [
-          "2025-12-03"
-        ],
-        "clicks": 3,
-        "impressions": 52,
-        "ctr": 0.0577,
-        "position": 5.8
-      },
-      {
-        "keys": [
-          "2025-12-04"
-        ],
-        "clicks": 3,
-        "impressions": 42,
-        "ctr": 0.0714,
-        "position": 6.7
-      },
       {
         "keys": [
           "2025-12-05"
@@ -769,13 +715,67 @@
         "impressions": 170,
         "ctr": 0.1,
         "position": 5.8
+      },
+      {
+        "keys": [
+          "2025-12-26"
+        ],
+        "clicks": 5,
+        "impressions": 70,
+        "ctr": 0.0714,
+        "position": 5.3
+      },
+      {
+        "keys": [
+          "2025-12-27"
+        ],
+        "clicks": 9,
+        "impressions": 83,
+        "ctr": 0.1084,
+        "position": 8.5
+      },
+      {
+        "keys": [
+          "2025-12-28"
+        ],
+        "clicks": 15,
+        "impressions": 183,
+        "ctr": 0.082,
+        "position": 6.1
+      },
+      {
+        "keys": [
+          "2025-12-29"
+        ],
+        "clicks": 7,
+        "impressions": 127,
+        "ctr": 0.0551,
+        "position": 6.6
+      },
+      {
+        "keys": [
+          "2025-12-30"
+        ],
+        "clicks": 10,
+        "impressions": 121,
+        "ctr": 0.0826,
+        "position": 5.9
+      },
+      {
+        "keys": [
+          "2025-12-31"
+        ],
+        "clicks": 3,
+        "impressions": 78,
+        "ctr": 0.0385,
+        "position": 7.0
       }
     ]
   },
   "summary": {
-    "total_clicks_28d": 56,
-    "total_impressions_28d": 552,
-    "average_ctr_28d": 10.144927536231885,
+    "total_clicks_28d": 61,
+    "total_impressions_28d": 708,
+    "average_ctr_28d": 8.615819209039548,
     "total_queries": 50,
     "total_pages": 4
   },
