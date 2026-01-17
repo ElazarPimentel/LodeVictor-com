@@ -1,6 +1,6 @@
 {
   "site_url": "sc-domain:lodevictor.com",
-  "generated_at": "2026-01-05T21:24:45.814313",
+  "generated_at": "2026-01-05T23:51:07.937576",
   "period": {
     "start": "2025-12-08",
     "end": "2026-01-05",
@@ -770,14 +770,42 @@
         "ctr": 0.0455,
         "position": 6.1
       }
-    ]
+    ],
+    "url_inspection": {
+      "total_inspected": 4,
+      "not_indexed_count": 0,
+      "not_indexed": [],
+      "all_results": [
+        {
+          "url": "https://lodevictor.com/",
+          "error": "<HttpError 403 when requesting https://searchconsole.googleapis.com/v1/urlInspection/index:inspect?alt=json returned \"You do not own this site, or the inspected URL is not part of this property.\". Details: \"You do not own this site, or the inspected URL is not part of this property.\">",
+          "verdict": "ERROR"
+        },
+        {
+          "url": "https://lodevictor.com/#menu",
+          "error": "<HttpError 403 when requesting https://searchconsole.googleapis.com/v1/urlInspection/index:inspect?alt=json returned \"You do not own this site, or the inspected URL is not part of this property.\". Details: \"You do not own this site, or the inspected URL is not part of this property.\">",
+          "verdict": "ERROR"
+        },
+        {
+          "url": "https://lodevictor.com/en/",
+          "error": "<HttpError 403 when requesting https://searchconsole.googleapis.com/v1/urlInspection/index:inspect?alt=json returned \"You do not own this site, or the inspected URL is not part of this property.\". Details: \"You do not own this site, or the inspected URL is not part of this property.\">",
+          "verdict": "ERROR"
+        },
+        {
+          "url": "https://lodevictor.com/he/",
+          "error": "<HttpError 403 when requesting https://searchconsole.googleapis.com/v1/urlInspection/index:inspect?alt=json returned \"You do not own this site, or the inspected URL is not part of this property.\". Details: \"You do not own this site, or the inspected URL is not part of this property.\">",
+          "verdict": "ERROR"
+        }
+      ]
+    }
   },
   "summary": {
     "total_clicks_28d": 59,
     "total_impressions_28d": 708,
     "average_ctr_28d": 8.333333333333332,
     "total_queries": 50,
-    "total_pages": 4
+    "total_pages": 4,
+    "not_indexed_count": 0
   },
   "folder_name": "lodevictor-com"
 }
