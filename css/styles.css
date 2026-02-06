@@ -40,6 +40,46 @@ html {
     line-height: 1.5;
 }
 
+/* Vacation Notice (in Hours & Contact sections) */
+.vacation-notice {
+    background: var(--bg-dark);
+    padding: 30px 40px;
+    border-radius: 8px;
+    text-align: center;
+    border: 2px solid var(--primary-red);
+}
+
+.vacation-notice h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    color: var(--primary-red);
+    margin-bottom: 12px;
+}
+
+.vacation-notice p {
+    color: var(--text-gray);
+    font-size: 16px;
+    margin-bottom: 4px;
+    line-height: 1.6;
+}
+
+.vacation-notice p:last-child {
+    color: var(--text-white);
+    font-weight: 600;
+    margin-top: 8px;
+    font-size: 17px;
+}
+
+.vacation-notice-contact {
+    margin-bottom: 40px;
+}
+
+.vacation-notice-contact p {
+    color: var(--text-white);
+    font-weight: 600;
+    font-size: 17px;
+}
+
 body {
     font-family: 'Raleway', sans-serif;
     background-color: var(--bg-black);

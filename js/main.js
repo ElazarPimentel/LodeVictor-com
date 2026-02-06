@@ -90,6 +90,13 @@ const translations = {
         vacation_title: 'Vacaciones:',
         vacation_text: 'Domingo 8/2 atendemos hasta las 15:00hs. Del domingo 8/2 turno noche al jueves 19/2 estaremos cerrados. Reabrimos el viernes 20/2.',
 
+        // Vacation Notice (Hours & Contact)
+        vacation_notice_title: 'Vacaciones',
+        vacation_notice_hours: 'Dom. 8/2: atendemos hasta las 15:00hs',
+        vacation_notice_closed: 'Cerrados del dom. 8/2 noche al jue. 19/2',
+        vacation_notice_reopen: 'Reabrimos vie. 20/2',
+        vacation_notice_contact: 'Cerrados por vacaciones del 8 al 19/2. Reabrimos vie. 20/2.',
+
         // Footer
         footer_text: 'Riquísima Parrilla Kosher - Certificación Rabino Chehebar',
         footer_rights: 'Todos los derechos reservados.'
@@ -182,6 +189,13 @@ const translations = {
         vacation_title: 'Vacation:',
         vacation_text: 'Sunday 2/8 we are open until 3:00 PM. From Sunday 2/8 evening through Thursday 2/19 we will be closed. We reopen Friday 2/20.',
 
+        // Vacation Notice (Hours & Contact)
+        vacation_notice_title: 'Vacation',
+        vacation_notice_hours: 'Sun. 2/8: open until 3:00 PM',
+        vacation_notice_closed: 'Closed from Sun. 2/8 evening through Thu. 2/19',
+        vacation_notice_reopen: 'We reopen Fri. 2/20',
+        vacation_notice_contact: 'Closed for vacation 2/8 - 2/19. We reopen Fri. 2/20.',
+
         // Footer
         footer_text: 'Delicious Kosher Grill - Rabbi Chehebar Certification',
         footer_rights: 'All rights reserved.'
@@ -273,6 +287,13 @@ const translations = {
         // Vacation Banner
         vacation_title: ':חופשה',
         vacation_text: 'ביום ראשון 8/2 אנחנו פתוחים עד 15:00. מיום ראשון 8/2 בערב עד יום חמישי 19/2 נהיה סגורים. נפתח מחדש ביום שישי 20/2.',
+
+        // Vacation Notice (Hours & Contact)
+        vacation_notice_title: 'חופשה',
+        vacation_notice_hours: 'יום ראשון 8/2: פתוחים עד 15:00',
+        vacation_notice_closed: 'סגורים מיום ראשון 8/2 בערב עד יום חמישי 19/2',
+        vacation_notice_reopen: 'נפתח מחדש ביום שישי 20/2',
+        vacation_notice_contact: 'סגורים לחופשה מ-8/2 עד 19/2. נפתח מחדש ביום שישי 20/2.',
 
         // Footer
         footer_text: 'מעדנייה כשרה מעולה - הכשר הרב צ\'האבר',
