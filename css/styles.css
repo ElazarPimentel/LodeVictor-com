@@ -22,6 +22,24 @@ html {
     scroll-behavior: smooth;
 }
 
+/* Vacation Banner */
+.vacation-banner {
+    background-color: var(--primary-red);
+    color: var(--text-white);
+    text-align: center;
+    padding: 12px 20px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    position: relative;
+    z-index: 998;
+    margin-top: 70px;
+}
+
+.vacation-banner p {
+    margin: 0;
+    line-height: 1.5;
+}
+
 body {
     font-family: 'Raleway', sans-serif;
     background-color: var(--bg-black);

@@ -86,6 +86,10 @@ const translations = {
         contact_phone: 'Teléfonos',
         contact_social: 'Redes Sociales',
 
+        // Vacation Banner
+        vacation_title: 'Vacaciones:',
+        vacation_text: 'Domingo 8/2 atendemos hasta las 15:00hs. Del domingo 8/2 turno noche al jueves 19/2 estaremos cerrados. Reabrimos el viernes 20/2.',
+
         // Footer
         footer_text: 'Riquísima Parrilla Kosher - Certificación Rabino Chehebar',
         footer_rights: 'Todos los derechos reservados.'
@@ -174,6 +178,10 @@ const translations = {
         contact_phone: 'Phones',
         contact_social: 'Social Media',
 
+        // Vacation Banner
+        vacation_title: 'Vacation:',
+        vacation_text: 'Sunday 2/8 we are open until 3:00 PM. From Sunday 2/8 evening through Thursday 2/19 we will be closed. We reopen Friday 2/20.',
+
         // Footer
         footer_text: 'Delicious Kosher Grill - Rabbi Chehebar Certification',
         footer_rights: 'All rights reserved.'
@@ -261,6 +269,10 @@ const translations = {
         contact_map: 'צפה במפות גוגל',
         contact_phone: 'טלפונים',
         contact_social: 'רשתות חברתיות',
+
+        // Vacation Banner
+        vacation_title: ':חופשה',
+        vacation_text: 'ביום ראשון 8/2 אנחנו פתוחים עד 15:00. מיום ראשון 8/2 בערב עד יום חמישי 19/2 נהיה סגורים. נפתח מחדש ביום שישי 20/2.',
 
         // Footer
         footer_text: 'מעדנייה כשרה מעולה - הכשר הרב צ\'האבר',
