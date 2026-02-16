@@ -244,8 +244,8 @@ body {
     background-image: url('../images/170.png');
     background-size: 65%;
     background-position: center;
-    opacity: 0.08;
-    filter: contrast(1.8);
+    opacity: 0.25;
+    filter: contrast(1.4);
     z-index: 1;
 }
 

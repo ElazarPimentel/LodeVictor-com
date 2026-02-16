@@ -1,0 +1,1574 @@
+{
+  "site_url": "sc-domain:lodevictor.com",
+  "generated_at": "2026-02-15T23:13:28.415742",
+  "period": {
+    "start": "2026-01-18",
+    "end": "2026-02-15",
+    "days": 28,
+    "previous_start": "2025-12-21",
+    "previous_end": "2026-01-17"
+  },
+  "data": {
+    "queries_28d": [
+      {
+        "keys": [
+          "lo de victor kosher"
+        ],
+        "clicks": 20,
+        "impressions": 117,
+        "ctr": 0.1709,
+        "position": 1.5
+      },
+      {
+        "keys": [
+          "lo de victor"
+        ],
+        "clicks": 7,
+        "impressions": 94,
+        "ctr": 0.0745,
+        "position": 2.4
+      },
+      {
+        "keys": [
+          "parrilla kosher lo de victor"
+        ],
+        "clicks": 4,
+        "impressions": 44,
+        "ctr": 0.0909,
+        "position": 1.1
+      },
+      {
+        "keys": [
+          "מסעדות כשרות בבואנוס איירס"
+        ],
+        "clicks": 4,
+        "impressions": 56,
+        "ctr": 0.0714,
+        "position": 5.7
+      },
+      {
+        "keys": [
+          "מסעדות כשרות בואנוס איירס"
+        ],
+        "clicks": 4,
+        "impressions": 111,
+        "ctr": 0.036,
+        "position": 6.3
+      },
+      {
+        "keys": [
+          "victor's kosher amazing bbq parrilla c1031abn"
+        ],
+        "clicks": 3,
+        "impressions": 8,
+        "ctr": 0.375,
+        "position": 1
+      },
+      {
+        "keys": [
+          "kosher buenos aires"
+        ],
+        "clicks": 2,
+        "impressions": 58,
+        "ctr": 0.0345,
+        "position": 8.1
+      },
+      {
+        "keys": [
+          "restaurante kosher belgrano"
+        ],
+        "clicks": 2,
+        "impressions": 26,
+        "ctr": 0.0769,
+        "position": 5.2
+      },
+      {
+        "keys": [
+          "comida kosher cerca de mi"
+        ],
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 6
+      },
+      {
+        "keys": [
+          "delivery kosher"
+        ],
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 13
+      },
+      {
+        "keys": [
+          "kosher buenos aires argentina"
+        ],
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 8.7
+      },
+      {
+        "keys": [
+          "restaurant cacher buenos aires"
+        ],
+        "clicks": 1,
+        "impressions": 25,
+        "ctr": 0.04,
+        "position": 4.4
+      },
+      {
+        "keys": [
+          "restaurante kosher palermo"
+        ],
+        "clicks": 1,
+        "impressions": 39,
+        "ctr": 0.0256,
+        "position": 7.7
+      },
+      {
+        "keys": [
+          "victor restaurante"
+        ],
+        "clicks": 1,
+        "impressions": 18,
+        "ctr": 0.0556,
+        "position": 4.6
+      },
+      {
+        "keys": [
+          "victor's kosher amazing bbq parrilla"
+        ],
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 1.3
+      },
+      {
+        "keys": [
+          "מסעדה כשרה בואנוס איירס"
+        ],
+        "clicks": 1,
+        "impressions": 29,
+        "ctr": 0.0345,
+        "position": 5.7
+      },
+      {
+        "keys": [
+          "argentina kosher restaurants"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "keys": [
+          "asado kosher"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 3
+      },
+      {
+        "keys": [
+          "belgrano kosher"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 12
+      },
+      {
+        "keys": [
+          "best kosher"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "keys": [
+          "best kosher deli near me"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "keys": [
+          "best kosher food near me"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "best kosher near me"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "best kosher restaurants buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 12.4
+      },
+      {
+        "keys": [
+          "best kosher restaurants in buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 16
+      },
+      {
+        "keys": [
+          "best kosher steak"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 93
+      },
+      {
+        "keys": [
+          "buenos aires halal"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 10.7
+      },
+      {
+        "keys": [
+          "buenos aires halal food"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "keys": [
+          "buenos aires kosher"
+        ],
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 11.2
+      },
+      {
+        "keys": [
+          "buenos aires kosher restaurants"
+        ],
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 15.5
+      },
+      {
+        "keys": [
+          "burger kosher near me"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "keys": [
+          "carne kosher"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 10.5
+      },
+      {
+        "keys": [
+          "carniceria kosher"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "keys": [
+          "chez victor"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "comida kosher"
+        ],
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 9.8
+      },
+      {
+        "keys": [
+          "comida kosher en buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 9.3
+      },
+      {
+        "keys": [
+          "comidas kosher"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 6.5
+      },
+      {
+        "keys": [
+          "galope"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 4
+      },
+      {
+        "keys": [
+          "grill house kosher"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "keys": [
+          "halal food buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 13.2
+      },
+      {
+        "keys": [
+          "halal food near me"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "keys": [
+          "halal steak buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "keys": [
+          "hol"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "keys": [
+          "kosher"
+        ],
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "keys": [
+          "kosher argentina"
+        ],
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "keys": [
+          "kosher bbq"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "keys": [
+          "kosher belgrano"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "keys": [
+          "kosher cerca de mi"
+        ],
+        "clicks": 0,
+        "impressions": 15,
+        "ctr": 0,
+        "position": 6.7
+      },
+      {
+        "keys": [
+          "kosher comida"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 29
+      },
+      {
+        "keys": [
+          "kosher delivery"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 22
+      }
+    ],
+    "pages_28d": [
+      {
+        "keys": [
+          "https://lodevictor.com/"
+        ],
+        "clicks": 82,
+        "impressions": 2241,
+        "ctr": 0.0366,
+        "position": 6.7
+      },
+      {
+        "keys": [
+          "https://lodevictor.com/#menu"
+        ],
+        "clicks": 17,
+        "impressions": 528,
+        "ctr": 0.0322,
+        "position": 4.1
+      },
+      {
+        "keys": [
+          "https://lodevictor.com/he/"
+        ],
+        "clicks": 12,
+        "impressions": 407,
+        "ctr": 0.0295,
+        "position": 6.5
+      },
+      {
+        "keys": [
+          "https://lodevictor.com/en/"
+        ],
+        "clicks": 10,
+        "impressions": 297,
+        "ctr": 0.0337,
+        "position": 5.9
+      }
+    ],
+    "devices_28d": [
+      {
+        "keys": [
+          "MOBILE"
+        ],
+        "clicks": 91,
+        "impressions": 2197,
+        "ctr": 0.0414,
+        "position": 6.0
+      },
+      {
+        "keys": [
+          "DESKTOP"
+        ],
+        "clicks": 27,
+        "impressions": 671,
+        "ctr": 0.0402,
+        "position": 8.5
+      },
+      {
+        "keys": [
+          "TABLET"
+        ],
+        "clicks": 1,
+        "impressions": 47,
+        "ctr": 0.0213,
+        "position": 9.2
+      }
+    ],
+    "daily_28d": [
+      {
+        "keys": [
+          "2026-01-18"
+        ],
+        "clicks": 3,
+        "impressions": 73,
+        "ctr": 0.0411,
+        "position": 6.7
+      },
+      {
+        "keys": [
+          "2026-01-19"
+        ],
+        "clicks": 2,
+        "impressions": 32,
+        "ctr": 0.0625,
+        "position": 6.0
+      },
+      {
+        "keys": [
+          "2026-01-20"
+        ],
+        "clicks": 3,
+        "impressions": 109,
+        "ctr": 0.0275,
+        "position": 6.5
+      },
+      {
+        "keys": [
+          "2026-01-21"
+        ],
+        "clicks": 6,
+        "impressions": 114,
+        "ctr": 0.0526,
+        "position": 6
+      },
+      {
+        "keys": [
+          "2026-01-22"
+        ],
+        "clicks": 9,
+        "impressions": 120,
+        "ctr": 0.075,
+        "position": 6.4
+      },
+      {
+        "keys": [
+          "2026-01-23"
+        ],
+        "clicks": 3,
+        "impressions": 74,
+        "ctr": 0.0405,
+        "position": 8.8
+      },
+      {
+        "keys": [
+          "2026-01-24"
+        ],
+        "clicks": 4,
+        "impressions": 84,
+        "ctr": 0.0476,
+        "position": 10.9
+      },
+      {
+        "keys": [
+          "2026-01-25"
+        ],
+        "clicks": 10,
+        "impressions": 184,
+        "ctr": 0.0543,
+        "position": 5.3
+      },
+      {
+        "keys": [
+          "2026-01-26"
+        ],
+        "clicks": 6,
+        "impressions": 131,
+        "ctr": 0.0458,
+        "position": 6.2
+      },
+      {
+        "keys": [
+          "2026-01-27"
+        ],
+        "clicks": 4,
+        "impressions": 120,
+        "ctr": 0.0333,
+        "position": 5.9
+      },
+      {
+        "keys": [
+          "2026-01-28"
+        ],
+        "clicks": 8,
+        "impressions": 126,
+        "ctr": 0.0635,
+        "position": 6.8
+      },
+      {
+        "keys": [
+          "2026-01-29"
+        ],
+        "clicks": 5,
+        "impressions": 80,
+        "ctr": 0.0625,
+        "position": 4.9
+      },
+      {
+        "keys": [
+          "2026-01-30"
+        ],
+        "clicks": 7,
+        "impressions": 82,
+        "ctr": 0.0854,
+        "position": 9.5
+      },
+      {
+        "keys": [
+          "2026-01-31"
+        ],
+        "clicks": 2,
+        "impressions": 63,
+        "ctr": 0.0317,
+        "position": 6.7
+      },
+      {
+        "keys": [
+          "2026-02-01"
+        ],
+        "clicks": 3,
+        "impressions": 119,
+        "ctr": 0.0252,
+        "position": 6.3
+      },
+      {
+        "keys": [
+          "2026-02-02"
+        ],
+        "clicks": 4,
+        "impressions": 109,
+        "ctr": 0.0367,
+        "position": 6.8
+      },
+      {
+        "keys": [
+          "2026-02-03"
+        ],
+        "clicks": 2,
+        "impressions": 121,
+        "ctr": 0.0165,
+        "position": 6.4
+      },
+      {
+        "keys": [
+          "2026-02-04"
+        ],
+        "clicks": 4,
+        "impressions": 98,
+        "ctr": 0.0408,
+        "position": 6.0
+      },
+      {
+        "keys": [
+          "2026-02-05"
+        ],
+        "clicks": 4,
+        "impressions": 124,
+        "ctr": 0.0323,
+        "position": 6.7
+      },
+      {
+        "keys": [
+          "2026-02-06"
+        ],
+        "clicks": 5,
+        "impressions": 85,
+        "ctr": 0.0588,
+        "position": 7.3
+      },
+      {
+        "keys": [
+          "2026-02-07"
+        ],
+        "clicks": 2,
+        "impressions": 100,
+        "ctr": 0.02,
+        "position": 6.1
+      },
+      {
+        "keys": [
+          "2026-02-08"
+        ],
+        "clicks": 4,
+        "impressions": 126,
+        "ctr": 0.0317,
+        "position": 6.6
+      },
+      {
+        "keys": [
+          "2026-02-09"
+        ],
+        "clicks": 1,
+        "impressions": 117,
+        "ctr": 0.0085,
+        "position": 6.7
+      },
+      {
+        "keys": [
+          "2026-02-10"
+        ],
+        "clicks": 3,
+        "impressions": 109,
+        "ctr": 0.0275,
+        "position": 6.8
+      },
+      {
+        "keys": [
+          "2026-02-11"
+        ],
+        "clicks": 8,
+        "impressions": 148,
+        "ctr": 0.0541,
+        "position": 6.3
+      },
+      {
+        "keys": [
+          "2026-02-12"
+        ],
+        "clicks": 5,
+        "impressions": 143,
+        "ctr": 0.035,
+        "position": 7.6
+      },
+      {
+        "keys": [
+          "2026-02-13"
+        ],
+        "clicks": 2,
+        "impressions": 124,
+        "ctr": 0.0161,
+        "position": 6.3
+      }
+    ],
+    "queries_prev_28d": [
+      {
+        "keys": [
+          "lo de victor kosher"
+        ],
+        "clicks": 22,
+        "impressions": 162,
+        "ctr": 0.1358,
+        "position": 1.4
+      },
+      {
+        "keys": [
+          "lo de victor"
+        ],
+        "clicks": 12,
+        "impressions": 113,
+        "ctr": 0.1062,
+        "position": 3.2
+      },
+      {
+        "keys": [
+          "parrilla kosher lo de victor"
+        ],
+        "clicks": 5,
+        "impressions": 66,
+        "ctr": 0.0758,
+        "position": 1.1
+      },
+      {
+        "keys": [
+          "parrilla kosher"
+        ],
+        "clicks": 4,
+        "impressions": 26,
+        "ctr": 0.1538,
+        "position": 1.3
+      },
+      {
+        "keys": [
+          "restaurantes kosher en buenos aires"
+        ],
+        "clicks": 3,
+        "impressions": 32,
+        "ctr": 0.0938,
+        "position": 9.4
+      },
+      {
+        "keys": [
+          "מסעדות כשרות בבואנוס איירס"
+        ],
+        "clicks": 3,
+        "impressions": 67,
+        "ctr": 0.0448,
+        "position": 7.4
+      },
+      {
+        "keys": [
+          "kosher restaurants buenos aires"
+        ],
+        "clicks": 2,
+        "impressions": 22,
+        "ctr": 0.0909,
+        "position": 9.6
+      },
+      {
+        "keys": [
+          "comida kosher"
+        ],
+        "clicks": 1,
+        "impressions": 10,
+        "ctr": 0.1,
+        "position": 10.7
+      },
+      {
+        "keys": [
+          "delivery kosher"
+        ],
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 10
+      },
+      {
+        "keys": [
+          "kosher buenos aires"
+        ],
+        "clicks": 1,
+        "impressions": 42,
+        "ctr": 0.0238,
+        "position": 9.4
+      },
+      {
+        "keys": [
+          "kosher food buenos aires"
+        ],
+        "clicks": 1,
+        "impressions": 2,
+        "ctr": 0.5,
+        "position": 1.5
+      },
+      {
+        "keys": [
+          "kosher food near me"
+        ],
+        "clicks": 1,
+        "impressions": 4,
+        "ctr": 0.25,
+        "position": 8.5
+      },
+      {
+        "keys": [
+          "kosher near me"
+        ],
+        "clicks": 1,
+        "impressions": 7,
+        "ctr": 0.1429,
+        "position": 7.6
+      },
+      {
+        "keys": [
+          "kosher steakhouse buenos aires"
+        ],
+        "clicks": 1,
+        "impressions": 17,
+        "ctr": 0.0588,
+        "position": 4.9
+      },
+      {
+        "keys": [
+          "restaurant cacher buenos aires"
+        ],
+        "clicks": 1,
+        "impressions": 22,
+        "ctr": 0.0455,
+        "position": 4.5
+      },
+      {
+        "keys": [
+          "restaurant kosher buenos aires"
+        ],
+        "clicks": 1,
+        "impressions": 6,
+        "ctr": 0.1667,
+        "position": 7.3
+      },
+      {
+        "keys": [
+          "restaurante kosher belgrano"
+        ],
+        "clicks": 1,
+        "impressions": 32,
+        "ctr": 0.0312,
+        "position": 7.4
+      },
+      {
+        "keys": [
+          "restaurantes kosher"
+        ],
+        "clicks": 1,
+        "impressions": 8,
+        "ctr": 0.125,
+        "position": 13.4
+      },
+      {
+        "keys": [
+          "victor parrilla"
+        ],
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 0.3333,
+        "position": 1.3
+      },
+      {
+        "keys": [
+          "מסעדות כשרות"
+        ],
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 1
+      },
+      {
+        "keys": [
+          "מסעדות כשרות בואנוס איירס"
+        ],
+        "clicks": 1,
+        "impressions": 50,
+        "ctr": 0.02,
+        "position": 8.0
+      },
+      {
+        "keys": [
+          "al galope"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "keys": [
+          "argentina kosher restaurants"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "keys": [
+          "asado halal"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 10.3
+      },
+      {
+        "keys": [
+          "asado kosher"
+        ],
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 7.4
+      },
+      {
+        "keys": [
+          "best kosher deli near me"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "keys": [
+          "best kosher restaurants buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "keys": [
+          "best kosher restaurants in buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "keys": [
+          "buenos aires halal"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "keys": [
+          "buenos aires kosher"
+        ],
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "keys": [
+          "buenos aires kosher restaurants"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 15.3
+      },
+      {
+        "keys": [
+          "carne kosher"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "keys": [
+          "carniceria kosher"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 24.3
+      },
+      {
+        "keys": [
+          "comida al paso"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "keys": [
+          "comida kosher en buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "keys": [
+          "fervor buenos aires menu"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 3
+      },
+      {
+        "keys": [
+          "glitter restaurant glatt kosher"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "halal food buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "keys": [
+          "halal restaurants near me"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 12.5
+      },
+      {
+        "keys": [
+          "halal steak buenos aires"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "jewish restaurants near me"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "keys": [
+          "koscher restaurant"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "keys": [
+          "kosher"
+        ],
+        "clicks": 0,
+        "impressions": 9,
+        "ctr": 0,
+        "position": 12.4
+      },
+      {
+        "keys": [
+          "kosher argentina"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "keys": [
+          "kosher bbq"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 13
+      },
+      {
+        "keys": [
+          "kosher buenos aires argentina"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 19
+      },
+      {
+        "keys": [
+          "kosher burger near me"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "kosher delivery"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "keys": [
+          "kosher food argentina"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "keys": [
+          "kosher in argentina"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 7
+      }
+    ],
+    "pages_prev_28d": [
+      {
+        "keys": [
+          "https://lodevictor.com/"
+        ],
+        "clicks": 86,
+        "impressions": 1554,
+        "ctr": 0.0553,
+        "position": 6.5
+      },
+      {
+        "keys": [
+          "https://lodevictor.com/#menu"
+        ],
+        "clicks": 36,
+        "impressions": 713,
+        "ctr": 0.0505,
+        "position": 2.8
+      },
+      {
+        "keys": [
+          "https://lodevictor.com/en/"
+        ],
+        "clicks": 8,
+        "impressions": 152,
+        "ctr": 0.0526,
+        "position": 5.2
+      },
+      {
+        "keys": [
+          "https://lodevictor.com/he/"
+        ],
+        "clicks": 7,
+        "impressions": 335,
+        "ctr": 0.0209,
+        "position": 7.7
+      }
+    ],
+    "url_inspection": {
+      "status": "not_run",
+      "total_inspected": 0,
+      "successful_count": 0,
+      "errors_count": 0,
+      "not_indexed_count": null,
+      "not_indexed": [],
+      "reason_counts": {},
+      "errors": [],
+      "all_results": []
+    }
+  },
+  "totals": {
+    "clicks_28d": 119.0,
+    "impressions_28d": 2915.0,
+    "ctr_28d": 0.0408,
+    "position_28d": 6.7,
+    "clicks_prev_28d": 134.0,
+    "impressions_prev_28d": 2234.0,
+    "ctr_prev_28d": 0.06,
+    "position_prev_28d": 6.1
+  },
+  "summary": {
+    "total_clicks_28d": 119.0,
+    "total_impressions_28d": 2915.0,
+    "average_ctr_28d": 4.08,
+    "average_position_28d": 6.7,
+    "total_queries": 50,
+    "total_pages": 4,
+    "not_indexed_count": null
+  },
+  "trend_28d_vs_prev_28d": {
+    "clicks": {
+      "current": 119.0,
+      "previous": 134.0,
+      "delta": -15.0,
+      "delta_pct": -11.19
+    },
+    "impressions": {
+      "current": 2915.0,
+      "previous": 2234.0,
+      "delta": 681.0,
+      "delta_pct": 30.48
+    },
+    "ctr": {
+      "current": 0.0408,
+      "previous": 0.06,
+      "delta": -0.019199999999999995,
+      "delta_pct": -32.0
+    },
+    "position": {
+      "current": 6.7,
+      "previous": 6.1,
+      "delta": 0.6000000000000005,
+      "delta_pct": 9.84
+    },
+    "queries": {
+      "rising": [
+        {
+          "key": "מסעדות כשרות בואנוס איירס",
+          "current_impressions": 111,
+          "previous_impressions": 50,
+          "delta_impressions": 61,
+          "current_clicks": 4,
+          "previous_clicks": 1
+        },
+        {
+          "key": "restaurante kosher palermo",
+          "current_impressions": 39,
+          "previous_impressions": 0,
+          "delta_impressions": 39,
+          "current_clicks": 1,
+          "previous_clicks": 0
+        },
+        {
+          "key": "מסעדה כשרה בואנוס איירס",
+          "current_impressions": 29,
+          "previous_impressions": 0,
+          "delta_impressions": 29,
+          "current_clicks": 1,
+          "previous_clicks": 0
+        },
+        {
+          "key": "victor restaurante",
+          "current_impressions": 18,
+          "previous_impressions": 0,
+          "delta_impressions": 18,
+          "current_clicks": 1,
+          "previous_clicks": 0
+        },
+        {
+          "key": "comida kosher en buenos aires",
+          "current_impressions": 21,
+          "previous_impressions": 4,
+          "delta_impressions": 17,
+          "current_clicks": 0,
+          "previous_clicks": 0
+        },
+        {
+          "key": "kosher buenos aires",
+          "current_impressions": 58,
+          "previous_impressions": 42,
+          "delta_impressions": 16,
+          "current_clicks": 2,
+          "previous_clicks": 1
+        },
+        {
+          "key": "kosher cerca de mi",
+          "current_impressions": 15,
+          "previous_impressions": 0,
+          "delta_impressions": 15,
+          "current_clicks": 0,
+          "previous_clicks": 0
+        },
+        {
+          "key": "victor's kosher amazing bbq parrilla c1031abn",
+          "current_impressions": 8,
+          "previous_impressions": 0,
+          "delta_impressions": 8,
+          "current_clicks": 3,
+          "previous_clicks": 0
+        },
+        {
+          "key": "best kosher restaurants buenos aires",
+          "current_impressions": 5,
+          "previous_impressions": 1,
+          "delta_impressions": 4,
+          "current_clicks": 0,
+          "previous_clicks": 0
+        },
+        {
+          "key": "victor's kosher amazing bbq parrilla",
+          "current_impressions": 3,
+          "previous_impressions": 0,
+          "delta_impressions": 3,
+          "current_clicks": 1,
+          "previous_clicks": 0
+        }
+      ],
+      "falling": [
+        {
+          "key": "lo de victor kosher",
+          "current_impressions": 117,
+          "previous_impressions": 162,
+          "delta_impressions": -45,
+          "current_clicks": 20,
+          "previous_clicks": 22
+        },
+        {
+          "key": "restaurantes kosher en buenos aires",
+          "current_impressions": 0,
+          "previous_impressions": 32,
+          "delta_impressions": -32,
+          "current_clicks": 0,
+          "previous_clicks": 3
+        },
+        {
+          "key": "parrilla kosher",
+          "current_impressions": 0,
+          "previous_impressions": 26,
+          "delta_impressions": -26,
+          "current_clicks": 0,
+          "previous_clicks": 4
+        },
+        {
+          "key": "parrilla kosher lo de victor",
+          "current_impressions": 44,
+          "previous_impressions": 66,
+          "delta_impressions": -22,
+          "current_clicks": 4,
+          "previous_clicks": 5
+        },
+        {
+          "key": "kosher restaurants buenos aires",
+          "current_impressions": 0,
+          "previous_impressions": 22,
+          "delta_impressions": -22,
+          "current_clicks": 0,
+          "previous_clicks": 2
+        },
+        {
+          "key": "lo de victor",
+          "current_impressions": 94,
+          "previous_impressions": 113,
+          "delta_impressions": -19,
+          "current_clicks": 7,
+          "previous_clicks": 12
+        },
+        {
+          "key": "kosher steakhouse buenos aires",
+          "current_impressions": 0,
+          "previous_impressions": 17,
+          "delta_impressions": -17,
+          "current_clicks": 0,
+          "previous_clicks": 1
+        },
+        {
+          "key": "מסעדות כשרות בבואנוס איירס",
+          "current_impressions": 56,
+          "previous_impressions": 67,
+          "delta_impressions": -11,
+          "current_clicks": 4,
+          "previous_clicks": 3
+        },
+        {
+          "key": "restaurantes kosher",
+          "current_impressions": 0,
+          "previous_impressions": 8,
+          "delta_impressions": -8,
+          "current_clicks": 0,
+          "previous_clicks": 1
+        },
+        {
+          "key": "kosher near me",
+          "current_impressions": 0,
+          "previous_impressions": 7,
+          "delta_impressions": -7,
+          "current_clicks": 0,
+          "previous_clicks": 1
+        }
+      ]
+    },
+    "pages": {
+      "rising": [
+        {
+          "key": "https://lodevictor.com/",
+          "current_impressions": 2241,
+          "previous_impressions": 1554,
+          "delta_impressions": 687,
+          "current_clicks": 82,
+          "previous_clicks": 86
+        },
+        {
+          "key": "https://lodevictor.com/en/",
+          "current_impressions": 297,
+          "previous_impressions": 152,
+          "delta_impressions": 145,
+          "current_clicks": 10,
+          "previous_clicks": 8
+        },
+        {
+          "key": "https://lodevictor.com/he/",
+          "current_impressions": 407,
+          "previous_impressions": 335,
+          "delta_impressions": 72,
+          "current_clicks": 12,
+          "previous_clicks": 7
+        }
+      ],
+      "falling": [
+        {
+          "key": "https://lodevictor.com/#menu",
+          "current_impressions": 528,
+          "previous_impressions": 713,
+          "delta_impressions": -185,
+          "current_clicks": 17,
+          "previous_clicks": 36
+        }
+      ]
+    }
+  },
+  "sanity": {
+    "query_rows_sum": {
+      "clicks": 54,
+      "impressions": 757
+    },
+    "page_rows_sum": {
+      "clicks": 121,
+      "impressions": 3473
+    },
+    "device_rows_sum": {
+      "clicks": 119,
+      "impressions": 2915
+    },
+    "daily_rows_sum": {
+      "clicks": 119,
+      "impressions": 2915
+    },
+    "warnings": [
+      "query_rows_sum.clicks diverges from totals.clicks_28d by 54.6%",
+      "query_rows_sum.impressions diverges from totals.impressions_28d by 74.0%"
+    ],
+    "notes": [
+      "query/page slices are top rows and may not include full long tail.",
+      "totals block is authoritative for aggregate metrics."
+    ]
+  },
+  "warnings": [
+    "SANITY: query_rows_sum.clicks diverges from totals.clicks_28d by 54.6%",
+    "SANITY: query_rows_sum.impressions diverges from totals.impressions_28d by 74.0%"
+  ],
+  "opportunities": [],
+  "diagnosis": {
+    "decision_tree": [],
+    "brand_share": {
+      "brand_tokens": [
+        "lodevictor"
+      ],
+      "impressions_total": 757,
+      "impressions_branded": 0,
+      "share": 0.0
+    },
+    "prioritized_issues": [],
+    "next_steps": []
+  },
+  "prioritized_issues": [],
+  "next_steps": [],
+  "folder_name": "lodevictor-com"
+}

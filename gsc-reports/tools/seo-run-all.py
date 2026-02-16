@@ -1,0 +1,1 @@
+../../../tools/seo-run-all.py
