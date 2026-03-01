@@ -57,10 +57,11 @@ Plus translation keys in `js/main.js` for all 3 languages.
 - **Layout**: CSS Grid (2-col for hours, contact) + Flexbox
 - **Mobile**: responsive via media queries
 
-## Temporary Content
+## Vacation Banner Template
 
-- **Vacation banner** (red, top of page) + vacation notices in Hours and Contact sections
-- Remove after Feb 20, 2026 — search for `vacation` in all files
+- `vacation-banner-template.html` has reusable HTML, CSS, and translation keys
+- Paste into all 3 index.html files + css/styles.css + js/main.js
+- Remove when vacation ends (search for `vacation` in all files)
 
 ## Deploy
 

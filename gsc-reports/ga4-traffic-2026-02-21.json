@@ -1,0 +1,245 @@
+{
+  "site": "lodevictor.com",
+  "property_id": "properties/517034622",
+  "measurement_id": "G-85LF5YZBVF",
+  "generated": "2026-02-21T23:54:58",
+  "period": {
+    "start": "2026-01-25",
+    "end": "2026-02-21"
+  },
+  "totals": {
+    "sessions": 342,
+    "active_users": 300,
+    "new_users": 370,
+    "pageviews": 477,
+    "avg_session_duration": 95.27,
+    "bounce_rate": 0.3392
+  },
+  "by_source": [
+    {
+      "source": "(direct)",
+      "medium": "(none)",
+      "channel": "Direct",
+      "sessions": 174,
+      "users": 154,
+      "new_users": 233,
+      "pageviews": 267,
+      "avg_session_duration": 63.8626,
+      "bounce_rate": 0.3793
+    },
+    {
+      "source": "google",
+      "medium": "organic",
+      "channel": "Organic Search",
+      "sessions": 143,
+      "users": 122,
+      "new_users": 117,
+      "pageviews": 186,
+      "avg_session_duration": 128.2546,
+      "bounce_rate": 0.2727
+    },
+    {
+      "source": "chatgpt.com",
+      "medium": "(not set)",
+      "channel": "Unassigned",
+      "sessions": 13,
+      "users": 12,
+      "new_users": 11,
+      "pageviews": 15,
+      "avg_session_duration": 173.429,
+      "bounce_rate": 0.3846
+    },
+    {
+      "source": "(not set)",
+      "medium": "(not set)",
+      "channel": "Unassigned",
+      "sessions": 3,
+      "users": 3,
+      "new_users": 0,
+      "pageviews": 0,
+      "avg_session_duration": 0.0,
+      "bounce_rate": 1.0
+    },
+    {
+      "source": "chatgpt.com",
+      "medium": "referral",
+      "channel": "Referral",
+      "sessions": 2,
+      "users": 2,
+      "new_users": 2,
+      "pageviews": 2,
+      "avg_session_duration": 107.2322,
+      "bounce_rate": 0.5
+    },
+    {
+      "source": "bing",
+      "medium": "organic",
+      "channel": "Organic Search",
+      "sessions": 1,
+      "users": 1,
+      "new_users": 1,
+      "pageviews": 1,
+      "avg_session_duration": 367.0318,
+      "bounce_rate": 0.0
+    },
+    {
+      "source": "duckduckgo",
+      "medium": "organic",
+      "channel": "Organic Search",
+      "sessions": 1,
+      "users": 1,
+      "new_users": 1,
+      "pageviews": 1,
+      "avg_session_duration": 191.0879,
+      "bounce_rate": 0.0
+    },
+    {
+      "source": "gemini.google.com",
+      "medium": "referral",
+      "channel": "Referral",
+      "sessions": 1,
+      "users": 1,
+      "new_users": 1,
+      "pageviews": 1,
+      "avg_session_duration": 0.0,
+      "bounce_rate": 1.0
+    },
+    {
+      "source": "openai",
+      "medium": "(not set)",
+      "channel": "Unassigned",
+      "sessions": 1,
+      "users": 1,
+      "new_users": 1,
+      "pageviews": 1,
+      "avg_session_duration": 33.94,
+      "bounce_rate": 0.0
+    },
+    {
+      "source": "perplexity",
+      "medium": "(not set)",
+      "channel": "Unassigned",
+      "sessions": 1,
+      "users": 1,
+      "new_users": 1,
+      "pageviews": 1,
+      "avg_session_duration": 0.0,
+      "bounce_rate": 1.0
+    },
+    {
+      "source": "wanderlog.com",
+      "medium": "referral",
+      "channel": "Referral",
+      "sessions": 1,
+      "users": 1,
+      "new_users": 1,
+      "pageviews": 1,
+      "avg_session_duration": 32.6634,
+      "bounce_rate": 0.0
+    },
+    {
+      "source": "yahoo",
+      "medium": "organic",
+      "channel": "Organic Search",
+      "sessions": 1,
+      "users": 1,
+      "new_users": 1,
+      "pageviews": 1,
+      "avg_session_duration": 37.1726,
+      "bounce_rate": 0.0
+    }
+  ],
+  "by_channel": [
+    {
+      "channel": "Direct",
+      "sessions": 174,
+      "users": 154
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 146,
+      "users": 125
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 18,
+      "users": 17
+    },
+    {
+      "channel": "Referral",
+      "sessions": 4,
+      "users": 4
+    }
+  ],
+  "previous_period": {
+    "period": {
+      "start": "2025-12-28",
+      "end": "2026-01-24"
+    },
+    "totals": {
+      "sessions": 383,
+      "active_users": 331,
+      "new_users": 414,
+      "pageviews": 561,
+      "avg_session_duration": 89.23,
+      "bounce_rate": 0.3916
+    },
+    "by_source": [
+      {
+        "source": "(direct)",
+        "medium": "(none)",
+        "channel": "Direct",
+        "sessions": 237,
+        "users": 214,
+        "new_users": 300,
+        "pageviews": 350,
+        "avg_session_duration": 39.306,
+        "bounce_rate": 0.443
+      },
+      {
+        "source": "google",
+        "medium": "organic",
+        "channel": "Organic Search",
+        "sessions": 130,
+        "users": 103,
+        "new_users": 100,
+        "pageviews": 193,
+        "avg_session_duration": 186.2751,
+        "bounce_rate": 0.2692
+      },
+      {
+        "source": "chatgpt.com",
+        "medium": "(not set)",
+        "channel": "Unassigned",
+        "sessions": 11,
+        "users": 9,
+        "new_users": 9,
+        "pageviews": 13,
+        "avg_session_duration": 57.1626,
+        "bounce_rate": 0.4545
+      },
+      {
+        "source": "spyhost.site",
+        "medium": "referral",
+        "channel": "Referral",
+        "sessions": 3,
+        "users": 3,
+        "new_users": 3,
+        "pageviews": 3,
+        "avg_session_duration": 5.2358,
+        "bounce_rate": 1.0
+      },
+      {
+        "source": "bing",
+        "medium": "organic",
+        "channel": "Organic Search",
+        "sessions": 2,
+        "users": 2,
+        "new_users": 2,
+        "pageviews": 2,
+        "avg_session_duration": 0.0,
+        "bounce_rate": 1.0
+      }
+    ]
+  }
+}

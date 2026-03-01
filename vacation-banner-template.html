@@ -1,0 +1,187 @@
+<!--
+  VACATION BANNER TEMPLATE - Lo De Victor
+  ========================================
+  To activate: uncomment the HTML blocks below and paste into:
+    - index.html (Spanish)
+    - en/index.html (English)
+    - he/index.html (Hebrew)
+
+  Also uncomment the CSS block in css/styles.css
+  and the translation keys in js/main.js
+
+  Update dates and remove when vacation ends.
+
+  TODO for next time: add JS auto-hide based on end date.
+-->
+
+<!-- ============================================ -->
+<!-- 1. BANNER - paste after </nav>, before hero  -->
+<!-- ============================================ -->
+
+<!-- SPANISH (index.html) -->
+<div class="vacation-banner">
+    <div class="container">
+        <p><strong data-translate="vacation_title">Vacaciones:</strong> <span data-translate="vacation_text">FECHAS Y TEXTO ACÁ</span></p>
+    </div>
+</div>
+
+<!-- ENGLISH (en/index.html) -->
+<div class="vacation-banner">
+    <div class="container">
+        <p><strong data-translate="vacation_title">Vacation:</strong> <span data-translate="vacation_text">DATES AND TEXT HERE</span></p>
+    </div>
+</div>
+
+<!-- HEBREW (he/index.html) -->
+<div class="vacation-banner">
+    <div class="container">
+        <p><strong data-translate="vacation_title">:חופשה</strong> <span data-translate="vacation_text">תאריכים וטקסט כאן</span></p>
+    </div>
+</div>
+
+<!-- ============================================ -->
+<!-- 2. HOURS NOTICE - paste after hours-table,   -->
+<!--    before first pickup-info div              -->
+<!-- ============================================ -->
+
+<!-- SPANISH -->
+<div class="vacation-notice">
+    <h3 data-translate="vacation_notice_title">Vacaciones</h3>
+    <p data-translate="vacation_notice_hours">LÍNEA 1</p>
+    <p data-translate="vacation_notice_closed">LÍNEA 2</p>
+    <p data-translate="vacation_notice_reopen">LÍNEA 3 (reapertura)</p>
+</div>
+
+<!-- ENGLISH -->
+<div class="vacation-notice">
+    <h3>Vacation</h3>
+    <p>LINE 1</p>
+    <p>LINE 2</p>
+    <p>We reopen DATE</p>
+</div>
+
+<!-- HEBREW -->
+<div class="vacation-notice">
+    <h3>חופשה</h3>
+    <p>שורה 1</p>
+    <p>שורה 2</p>
+    <p>נפתח מחדש תאריך</p>
+</div>
+
+<!-- ============================================ -->
+<!-- 3. CONTACT NOTICE - paste after section-header -->
+<!--    divider, before contact-content div         -->
+<!-- ============================================ -->
+
+<!-- SPANISH -->
+<div class="vacation-notice vacation-notice-contact">
+    <p data-translate="vacation_notice_contact">Cerrados por vacaciones del X al Y. Reabrimos FECHA.</p>
+</div>
+
+<!-- ENGLISH -->
+<div class="vacation-notice vacation-notice-contact">
+    <p>Closed for vacation X - Y. We reopen DATE.</p>
+</div>
+
+<!-- HEBREW -->
+<div class="vacation-notice vacation-notice-contact">
+    <p>סגורים לחופשה מ-X עד Y. נפתח מחדש תאריך.</p>
+</div>
+
+<!-- ============================================ -->
+<!-- 4. CSS - add to css/styles.css after html{}  -->
+<!-- ============================================ -->
+<!--
+.vacation-banner {
+    background-color: var(--primary-red);
+    color: var(--text-white);
+    text-align: center;
+    padding: 12px 20px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    position: relative;
+    z-index: 998;
+    margin-top: 70px;
+}
+
+.vacation-banner p {
+    margin: 0;
+    line-height: 1.5;
+}
+
+.vacation-notice {
+    background: var(--bg-dark);
+    padding: 30px 40px;
+    border-radius: 8px;
+    text-align: center;
+    border: 2px solid var(--primary-red);
+}
+
+.hours-content .vacation-notice {
+    grid-column: 1 / -1;
+}
+
+.vacation-notice h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    color: var(--primary-red);
+    margin-bottom: 12px;
+}
+
+.vacation-notice p {
+    color: var(--text-gray);
+    font-size: 16px;
+    margin-bottom: 4px;
+    line-height: 1.6;
+}
+
+.vacation-notice p:last-child {
+    color: var(--text-white);
+    font-weight: 600;
+    margin-top: 8px;
+    font-size: 17px;
+}
+
+.vacation-notice-contact {
+    margin-bottom: 40px;
+}
+
+.vacation-notice-contact p {
+    color: var(--text-white);
+    font-weight: 600;
+    font-size: 17px;
+}
+-->
+
+<!-- ============================================ -->
+<!-- 5. TRANSLATIONS - add to js/main.js          -->
+<!-- ============================================ -->
+<!--
+es: {
+    vacation_title: 'Vacaciones:',
+    vacation_text: '...',
+    vacation_notice_title: 'Vacaciones',
+    vacation_notice_hours: '...',
+    vacation_notice_closed: '...',
+    vacation_notice_reopen: '...',
+    vacation_notice_contact: '...',
+},
+en: {
+    vacation_title: 'Vacation:',
+    vacation_text: '...',
+    vacation_notice_title: 'Vacation',
+    vacation_notice_hours: '...',
+    vacation_notice_closed: '...',
+    vacation_notice_reopen: '...',
+    vacation_notice_contact: '...',
+},
+he: {
+    vacation_title: ':חופשה',
+    vacation_text: '...',
+    vacation_notice_title: 'חופשה',
+    vacation_notice_hours: '...',
+    vacation_notice_closed: '...',
+    vacation_notice_reopen: '...',
+    vacation_notice_contact: '...',
+}
+-->
