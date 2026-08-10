@@ -483,6 +483,23 @@ function debounce(func, wait) {
     };
 }
 
+// Track WhatsApp button clicks in GA4
+document.addEventListener('click', (e) => {
+    const link = e.target.closest('a[href*="wa.me"]');
+    if (!link) return;
+    const location = link.classList.contains('whatsapp-float') ? 'floating_button'
+        : link.classList.contains('pickup-button') ? (link.dataset.translate || 'order_button')
+        : link.classList.contains('social-link') ? 'footer_social'
+        : 'other';
+    if (typeof gtag === 'function') {
+        gtag('event', 'whatsapp_click', {
+            event_category: 'engagement',
+            event_label: location,
+            page_path: window.location.pathname
+        });
+    }
+});
+
 // Lazy load images
 if ('IntersectionObserver' in window) {
     const imageObserver = new IntersectionObserver((entries, observer) => {
